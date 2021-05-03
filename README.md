@@ -6,7 +6,7 @@ The payment methods that are currently supported are:
 
 * BLURT, which allows people to create accounts by using their existing accounts; 
 * Crypto, which allows people to pay with crypto to create accounts; 
-* and finally, visa/credit card.
+* and finally, debit/credit Card and PayPal.
 
 ### Requeriments
 
