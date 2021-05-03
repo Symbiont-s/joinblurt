@@ -22,9 +22,9 @@ The payment methods that are currently supported are:
 
 ### First Step
 
-0- Install phpMyAdmin
+0- Install phpMyAdmin.
 
-1- Import the SQL file on phpMyAdmin, 
+1- Import the SQL file on phpMyAdmin.
     
 2- Go to the CoinPayments table and add your secret key, public key, and Username (not mandatory). The keys can be generated on:
 https://coinpayments.net/index.php?cmd=acct_api_keys
@@ -117,7 +117,7 @@ You must execute:
 
 If your db connection is working you will see a ```connected``` message on your bash.
 
-### Additional notes
+### Additional Notes
 
 If you have disabled the use of .htaccess files on your dedicated host please follow these steps.
 
@@ -133,7 +133,7 @@ Find:
 </Directory>
 ```
 
-and change 'AllowOverride' to 'All'
+and change 'AllowOverride' to 'All'.
 
 * Next step will be to enable rewrite module executing
 
@@ -150,3 +150,5 @@ To apply changes do:
 ### License
 
 GNU GENERAL PUBLIC LICENSE Version 3.
+
+Brought to you by the Symbionts Team.
