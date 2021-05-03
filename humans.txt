@@ -1,0 +1,23 @@
+/* TEAM */
+
+      Symbionts Team,
+      https://twitter.com/Ecosynthesizer
+      Development funding, ops, and HR.
+  
+      Jose Alejandro Demarzo Montero
+      https://twitter.com/Alejos7ven
+      Devloper. PHP, JS, SQL.
+  
+ /* THANKS */
+ 
+      Saboin,
+      Reported a bug related to the regex used to validate account names.
+      https://blurt.world/@saboin
+      
+      Ricardo Ferreira
+      Suggested a few aspects of the project and helped with testing.
+      https://nz.linkedin.com/in/ferreira-ricardo
+ 
+/* SITE */
+      Last update:2021/05/01
+      Language: English

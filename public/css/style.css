@@ -1,0 +1,160 @@
+html {
+    min-height: 100%;
+    position: relative;
+} 
+body{
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    margin-bottom: 40px;
+    background-color: #f1f1f1;
+}
+h1{
+    margin: 10px 0;
+}
+h2:not(.blurt-content>h2){
+    margin: 12px 0 0 0;
+}
+p{
+    margin: 0;
+}
+.icon{
+    width: 70px;
+    margin: 10px 0;
+}
+.blurt-content{
+    background-color: #F2652E;
+    padding: 8px;
+    color: white;
+    border-radius:.5rem;
+    box-shadow: 0px 1px 3px #c0c0c2;
+}
+.blurt-content a {
+    color: rgb(142, 219, 255);
+    font-weight: bold;
+}
+.main-content{
+    height: 170px;
+}
+.creator-content{
+    position: relative;
+    background-color: white;
+    padding: 8px;
+    line-height: 22px;
+    border-radius:.5rem;
+    box-shadow: 0px 1px 3px #c0c0c2;
+}
+.creator-content>h2 {
+    margin-bottom: 10px!important;
+}
+.info-section{
+    font-size: 12px;
+}
+input{
+    font-size: 12px!important;
+    padding: 3px 25px!important;
+}
+.btn-filter{
+    word-break: normal;
+    color: black;
+    font-weight: normal;
+    width: 100%;
+    box-shadow: 0px 1px 3px #c0c0c2;
+    margin: 2px 0;
+    font-size: 12px;
+    padding: 3px;
+    cursor: pointer;
+    background-color: whitesmoke;
+}
+.btn-create{
+    width: 100%;
+    color: white;
+    font-weight: bold;
+    background-color: #F2652E;
+    padding: 5px;
+    border-radius:.5rem;
+    box-shadow: 0px 1px 3px #c0c0c2;
+}
+.btn-create:hover{
+    box-shadow: 0px 3px 5px #c0c0c2;
+}
+.btn-send{
+    width: 100%;
+    color: white;
+    font-weight: bold;
+    background-color: #3c6fc7;
+    padding: 5px;
+    border-radius:.5rem;
+    box-shadow: 0px 1px 3px #c0c0c2;
+}
+.btn-cancel{
+    width: 100%;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(253, 71, 71);
+    padding: 5px;
+    border-radius:.5rem;
+    box-shadow: 0px 1px 3px #c0c0c2;
+}
+.btn-back{
+    width: 100%;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(71, 129, 253);
+    padding: 5px;
+    border-radius:.5rem;
+    box-shadow: 0px 1px 3px #c0c0c2;
+}
+.btn-send:hover, .btn-cancel:hover, .btn-back:hover{
+    box-shadow: 0px 3px 5px #c0c0c2;
+}
+
+.btn{
+    font-size: 14px;
+}
+.offer{
+    position: absolute;
+    top: 2px;
+    right: 2px;
+}
+.isUsernameAvailable {
+    position: absolute;
+    right: 15px;
+    top: 41px;
+}
+.availability {
+    display: inline-block;
+    margin-left: 5px;
+}
+.gly-icon{
+    position: absolute;
+    left: 15px;
+    top: 41px;
+}
+.gly-icon-key {
+    position: absolute;
+    top: 32px;
+    left: 6px;
+}
+.c-green{
+    color: rgb(94, 250, 94);
+}
+.c-red, .error{
+    color: red;
+}
+.c-blue{
+    color: #3c6fc7;
+}
+.ta-c{
+    text-align: center;
+}
+.ta-r {
+    text-align: right;
+}
+.ta-l{
+    text-align: left;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%; 
+}
