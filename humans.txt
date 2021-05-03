@@ -11,13 +11,14 @@
  /* THANKS */
  
       Saboin,
-      Reported a bug related to the regex used to validate account names.
       https://blurt.world/@saboin
+      Reported a bug related to the regex used to validate account names.
       
-      Ricardo Ferreira
-      Suggested a few aspects of the project and helped with testing.
+      
+      Ricardo Ferreira,
       https://nz.linkedin.com/in/ferreira-ricardo
- 
+      Suggested a few aspects of the project and helped with testing.
+      
 /* SITE */
       Last update:2021/05/01
       Language: English
