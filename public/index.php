@@ -26,7 +26,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 ta-c">
-                    <h1 style='font-size:24px;'>Creat a Blurt Account</h1>
+                    <h1 style='font-size:24px;'>Create a Blurt Account</h1>
                 </div> 
                 <div class="col-12 offset-0 col-sm-10 offset-sm-1 col-md-6 offset-md-0 col-lg-4 offset-lg-0 col-xl-4 offset-xl-0" style="margin-top:20px;">
                     <div class="blurt-content main-content ta-c">
