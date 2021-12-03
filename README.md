@@ -1,4 +1,4 @@
-### JoinBlurt
+### JoinBlurt (Current state of the project is not sucure! Avoid using it)
 
 This project aims to provide a tool that will allow POs to offer diverse payment methods to create accounts on the Blurt Blockchain.
 
